@@ -1,0 +1,143 @@
+#banner {
+  background-color: #e1d991;
+  padding: 20px;
+}
+
+#banner h1 {
+  padding-left: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+/* every block will have this value for their class */
+.content {
+  border: 3px solid grey;
+  margin: 20px;
+  padding: 15px;
+}
+
+.header {
+  padding-left: 10px;
+  font-size: 30px;
+}
+
+.content ul {
+  margin: 0 auto;
+  padding: 0;
+}
+
+#list li {
+  display: inline-block;
+  font-size: 30px;
+  width: 150px;
+  margin: 5px;
+  text-align: center;
+  padding: 50px 200px;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: #001aff;
+}
+
+#green {
+  background-color: #008000;
+}
+
+#orange {
+  background-color: #ffa500;
+}
+
+/* ------------------ FONTS SECTION ----------------------*/
+
+h3 {
+  font-size: 20px;
+  text-decoration: underline;
+}
+/* Times New Roman Font */
+#tnr {
+  font-family: "Times New Roman";
+}
+#second-box ul {
+  font-size: 20px;
+}
+
+#second-box ul li {
+  list-style-type: none;
+  margin: 5px;
+}
+
+#a {
+  font-family: "Times New Roman";
+}
+
+#b {
+  font-family: "Times New Roman";
+  font-weight: bold;
+}
+
+#c {
+  font-family: "Times New Roman";
+  font-style: italic;
+}
+
+/* Georgia Font */
+
+#e {
+  font-family: "Georgia";
+}
+
+#f {
+  font-family: "Georgia";
+  font-weight: bold;
+}
+
+#g {
+  font-family: "Georgia";
+  font-style: italic;
+}
+
+/* Verdana */
+
+#h {
+  font-family: "Verdana";
+}
+
+#i {
+  font-family: "Verdana";
+  font-weight: bold;
+}
+
+#j {
+  font-family: "Verdana";
+  font-style: italic;
+}
+
+/* ---------------- Text Styles ---------------- */
+
+#third-box ul {
+  /* list-style-type: none; */
+  margin: 15px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#headingOne {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: Impact;
+}
+
+#sub {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Gill Sans", "Gill Sans MT";
+}
+
+#para {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: Arial;
+}
